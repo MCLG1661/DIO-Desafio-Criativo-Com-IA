@@ -5,6 +5,10 @@
 ![Santander](https://img.shields.io/badge/Santander-Primeiros%20Passos%20com%20IA-red)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
+## English overview
+
+An educational prompt-engineering project from the DIO and Santander AI program. It demonstrates how to turn an everyday need into clear, contextual instructions for a generative AI tool.
+
 ## 📌 Sobre o Desafio
 
 Este projeto foi desenvolvido como parte do desafio criativo **Simplificando Tarefas e Ganhando Foco com IA**, da plataforma DIO, no programa **Santander — Primeiros Passos com IA**.
